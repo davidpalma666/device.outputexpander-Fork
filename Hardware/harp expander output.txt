@@ -1,0 +1,39 @@
+
+
+
+
+*************************************************
+*	@2 Junho 2026
+
+- componentes no sch orifginal U1 & U2 =
+	74LVC4245APW,118		Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm		
+		https://www.digikey.com/en/products/detail/nxp-usa-inc/74lvc4245apw-118/10476072
+	dado como descontinuado; 
+	
+	Citado como substituição:
+		https://www.digikey.com/en/products/detail/nexperia-usa-inc/74LVC4245APW-118/2209918
+		= MPN: 74LVC4245APW,118 (igual PN)
+		=diferente Manufacturer: 1º NXP; 2º Nexperia
+
+Package_SO:TSSOP-24_4.4x6.5mm_P0.5mm
+
+
+
+- na OEPS component list:
+	OEPS080126	LEVEL TRANSLATOR 8CH BIDIRECTIONAL
+	= MPN:	SN74LVC4245APWR	
+	= Digikey: 296-12183-6-ND
+	
+	
+Parameter			74LVC4245APW,118									SN74LVC4245APWR
+Manufacturer			Nexperia														Texas Instruments
+Device type		8-bit dual-supply level-translating transceiver			Same
+Package				PW = TSSOP-24													PW = TSSOP-24
+Packaging suffix	,118 = tape/reel code	R = tape/reel
+Pin compatible				Yes																Yes
+Direction control			DIR + OE														DIR + OE
+VCCA range				1.5V–5.5V													4.5V–5.5V
+VCCB range				1.5V–3.6V													2.7V–3.6V
+Temp range			−40°C to +125°C													−40°C to +85°C
+5V tolerant							Yes																Yes
+Typical use			Broad voltage translation							Mainly 5V ↔ 3.3V translation
