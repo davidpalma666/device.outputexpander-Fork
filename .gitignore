@@ -10,3 +10,6 @@ obj
 Debug
 packages
 *.componentinfo.xml
+/Hardware/harp output expander front panel/harp output expander front panel-backups
+/Hardware/harp output expander rear panel/harp output expander rear panel-backups
+/Hardware/harp output expander/harp expander output-backups

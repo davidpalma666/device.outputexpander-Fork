@@ -8041,28 +8041,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 168.91 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 168.91 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "781f47c9-367d-4cf3-8ce1-ea708eaf9631")
 		)
@@ -8784,28 +8762,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 275.59 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 275.59 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "3c764af1-a458-471d-9283-ae1ca9aece2c")
 		)
@@ -9330,28 +9286,6 @@
 			)
 		)
 		(property "OEPSPN" "OEPS060006"
-			(at 204.47 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 204.47 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
 			(at 204.47 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -10128,28 +10062,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 240.03 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 240.03 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "63c82537-7faa-4de9-9b01-16ebb3f385ce")
 		)
@@ -10351,28 +10263,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 133.35 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 133.35 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "3"
 			(uuid "74c2b573-e1c4-4cb8-b4c1-b6df5b1925da")
 		)
@@ -10487,28 +10377,6 @@
 			)
 		)
 		(property "OEPSPN" "OEPS060006"
-			(at 133.35 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 133.35 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
 			(at 133.35 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -10886,28 +10754,6 @@
 			)
 		)
 		(property "OEPSPN" "OEPS060006"
-			(at 97.79 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 97.79 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
 			(at 97.79 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -12678,28 +12524,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 204.47 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 204.47 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "a4635d3b-d098-40fe-9a3f-58cbaed8190a")
 		)
@@ -12814,28 +12638,6 @@
 			)
 		)
 		(property "OEPSPN" "OEPS060006"
-			(at 275.59 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 275.59 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
 			(at 275.59 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -13831,28 +13633,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 168.91 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 168.91 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b5956c22-b7bb-4b41-8e78-fc1d4b0d4fde")
 		)
@@ -14582,28 +14362,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 97.79 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 97.79 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "09f9050a-51c3-4193-8045-05ac2bff3f8d")
 		)
@@ -15197,28 +14955,6 @@
 			)
 		)
 		(property "OEPSPN" "OEPS060006"
-			(at 240.03 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 240.03 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
 			(at 240.03 241.3 0)
 			(hide yes)
 			(show_name no)
